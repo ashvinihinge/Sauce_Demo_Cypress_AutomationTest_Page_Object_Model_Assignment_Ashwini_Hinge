@@ -1,6 +1,6 @@
 # Sauce_Demo_Cypress_AutomationTest_Page_Object_Model_Assignment_Ashwini_Hinge
 
-Environment & Credentials
+## Environment & Credentials
 
 URL: https://www.saucedemo.com/ 
 Test User: standard_user
